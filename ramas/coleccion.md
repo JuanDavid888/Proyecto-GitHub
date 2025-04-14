@@ -22,3 +22,11 @@ Para crear una rama, sigue estos pasos:
 3. Especifica el nombre de la rama que deseas crear.
 
 Otra opción es usar el comando `git checkout -b <nombre-de-la-rama>` en la terminal. Este comando crea una nueva rama y se mueve a ella directamente.
+
+## Cambiar de rama
+
+Para cambiar de rama, sigue estos pasos:
+
+1. Abre la terminal.
+2. Pasa el comando `git checkout <nombre-de-la-rama>`.
+3. Especifica el nombre de la rama que deseas cambiar.
