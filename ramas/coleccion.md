@@ -30,3 +30,13 @@ Para cambiar de rama, sigue estos pasos:
 1. Abre la terminal.
 2. Pasa el comando `git checkout <nombre-de-la-rama>`.
 3. Especifica el nombre de la rama que deseas cambiar.
+
+## Eliminar una rama
+
+Para eliminar una rama, sigue estos pasos:
+
+1. Abre la terminal.
+2. Pasa el comando `git branch -d <nombre-de-la-rama>`.
+3. Especifica el nombre de la rama que deseas eliminar.
+
+Otra opción es usar el comando `git branch -D <nombre-de-la-rama>` en la terminal. Este comando elimina la rama y todas las referencias asociadas de manera forzosa.
