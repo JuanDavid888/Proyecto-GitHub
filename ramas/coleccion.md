@@ -12,3 +12,13 @@ Para listar las ramas, sigue estos pasos:
 2. Pasa el comando `git branch`.
 
 Este comando muestra una lista de todas las ramas en el repositorio.
+
+## Crear una rama
+
+Para crear una rama, sigue estos pasos:
+
+1. Abre la terminal.
+2. Pasa el comando `git branch` y especifica el nombre de la rama que deseas crear.
+3. Especifica el nombre de la rama que deseas crear.
+
+Otra opción es usar el comando `git checkout -b <nombre-de-la-rama>` en la terminal. Este comando crea una nueva rama y se mueve a ella directamente.
